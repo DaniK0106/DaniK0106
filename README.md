@@ -7,7 +7,7 @@ Estou cursando o primeiro semestre de TI, ainda não tenho toda vivência necess
 
 #### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniK0106&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniK0106&show_icons=true&theme=dark)
 
 #### Projeto
 
