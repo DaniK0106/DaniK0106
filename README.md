@@ -21,6 +21,6 @@ https://tiktok---jornada-8de09.web.app
 
 #### Contatos
 
-Email: daniana06.k@gmail.com
+E-mail: daniana06.k@gmail.com
 
 Telefone: (67) 99201-8120
