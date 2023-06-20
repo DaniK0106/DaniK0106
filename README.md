@@ -7,17 +7,17 @@ Estou cursando o primeiro semestre de TI, ainda não tenho toda vivência necess
 
 #### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniK0106&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniK0106&show_icons=true&theme=dark)
 
 #### Projeto
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniK0106&repo=Tik-Tok-Jornada-Dev&theme=dark)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniK0106&repo=Tik-Tok-Jornada-Dev&theme=dark)
 
 https://tiktok---jornada-8de09.web.app
 
 #### Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danik0106&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danik0106&layout=compact)
 
 #### Contatos
 
