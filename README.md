@@ -13,6 +13,8 @@ Amo a busca por novos desafios! Estou no primeiro semestre de TI, ainda não ten
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaniK0106&repo=Tik-Tok-Jornada-Dev&theme=dark)]
 
+https://tiktok---jornada-8de09.web.app
+
 ### Linguagens utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danik0106&layout=compact)]
